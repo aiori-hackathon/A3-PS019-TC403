@@ -3,6 +3,6 @@ This repository will contain the code and resources for the AIORI-3 hackathon th
 
 ## Project Demo Video
 
-Watch our project demo here:
+Watch our project presentation here:
 
-[▶ Watch the Demo Video](https://youtu.be/s2Yx0fxGFHk)
+[▶ Watch the Presentation Video](https://youtu.be/s2Yx0fxGFHk)
