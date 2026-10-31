@@ -5,7 +5,7 @@
 **Team Name:** Synapse
 **Live Project:** [https://privylens.onrender.com/](https://privylens.onrender.com/)
 **Deliverable PDF:** Attached
-**Pseudocode Snippet:** `docs/PSEUDOCODE_SNIPPET.md`
+**Pseudocode Snippet:** [docs/PSEUDOCODE_SNIPPET.md](docs/PSEUDOCODE_SNIPPET.md)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![Framework](https://img.shields.io/badge/Framework-Flask-black) ![Tests](https://img.shields.io/badge/Tests-12%20unit%20tests-brightgreen)
 
@@ -131,6 +131,8 @@ airio sample/
 │   │   └── enterprise_data.db
 │   ├── ground_truth.json          # Manually labelled benchmark for evaluation
 │   └── generate_datasets.py       # Deterministic synthetic data generator script
+├── docs/
+│   └── PSEUDOCODE_SNIPPET.md      # Pseudocode snippet & mentor briefing
 ├── privlens/
 │   ├── models.py                  # Dataclasses: DiscoveredField, InventoryItem, Metric, etc.
 │   ├── scanner/
@@ -253,7 +255,7 @@ Runs all 12 unit tests across validators, scanners, governance mapping, file upl
 - [x] **Automated Tests:** 12 unit tests included
 - [ ] **Private GitHub Repository:** `<add repository link>`
 - [ ] **Deliverable PDF:** `<add file name>` uploaded at repository root
-- [ ] **Prototype Demonstration & Pseudocode Snippet:** `docs/PSEUDOCODE_SNIPPET.md`
+- [x] **Prototype Demonstration & Pseudocode Snippet:** [docs/PSEUDOCODE_SNIPPET.md](docs/PSEUDOCODE_SNIPPET.md)
 
 ---
 
