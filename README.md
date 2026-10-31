@@ -4,7 +4,7 @@
 **Category:** Cyber Security / Privacy Engineering
 **Team Name:** Synapse
 **Live Project:** [https://privylens.onrender.com/](https://privylens.onrender.com/)
-**Deliverable PDF:** Attached
+**Deliverable PDF:** [Proposed-structure-hackathon.pdf](deliverables.pdf)
 **Pseudocode Snippet:** [docs/PSEUDOCODE_SNIPPET.md](docs/PSEUDOCODE_SNIPPET.md)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![Framework](https://img.shields.io/badge/Framework-Flask-black) ![Tests](https://img.shields.io/badge/Tests-12%20unit%20tests-brightgreen)
@@ -254,7 +254,7 @@ Runs all 12 unit tests across validators, scanners, governance mapping, file upl
 - [x] **Empirical Metrics:** Per-class Precision, Recall and F1-Score quantified
 - [x] **Automated Tests:** 12 unit tests included
 - [ ] **Private GitHub Repository:** `<add repository link>`
-- [ ] **Deliverable PDF:** `<add file name>` uploaded at repository root
+- [x] **Deliverable PDF:** [deliverables.pdf](deliverables.pdf) uploaded at repository root
 - [x] **Prototype Demonstration & Pseudocode Snippet:** [docs/PSEUDOCODE_SNIPPET.md](docs/PSEUDOCODE_SNIPPET.md)
 
 ---
