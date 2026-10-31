@@ -253,7 +253,7 @@ Runs all 12 unit tests across validators, scanners, governance mapping, file upl
 - [x] **Purpose & Retention Mapping + Evidence Gaps:** Implemented via governance registry
 - [x] **Empirical Metrics:** Per-class Precision, Recall and F1-Score quantified
 - [x] **Automated Tests:** 12 unit tests included
-- [ ] **Private GitHub Repository:** `<add repository link>`
+- [x] **Private GitHub Repository:** (repository link)(https://github.com/aiori-hackathon/A3-PS019-TC403)
 - [x] **Deliverable PDF:** [deliverables.pdf](deliverables.pdf) uploaded at repository root
 - [x] **Prototype Demonstration & Pseudocode Snippet:** [docs/PSEUDOCODE_SNIPPET.md](docs/PSEUDOCODE_SNIPPET.md)
 
