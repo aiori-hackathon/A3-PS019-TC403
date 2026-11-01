@@ -4,7 +4,7 @@
 **Category:** Cyber Security / Privacy Engineering
 **Team Name:** Synapse
 **Live Project:** [https://privylens.onrender.com/](https://privylens.onrender.com/)
-**Deliverable PDF:** [Proposed-structure-hackathon.pdf](deliverables.pdf)
+**Deliverable PDF:** [deliverables.pdf](deliverables.pdf)
 **Pseudocode Snippet:** [docs/PSEUDOCODE_SNIPPET.md](docs/PSEUDOCODE_SNIPPET.md)
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue) ![Framework](https://img.shields.io/badge/Framework-Flask-black) ![Tests](https://img.shields.io/badge/Tests-12%20unit%20tests-brightgreen)
